@@ -1,15 +1,20 @@
 # UCB CS 61A SICP Coursework
 
-A repo to store my work done on the UCB CS 61A course from Summer 2010.
+A repo to store my work done on the UCB CS 61A course from Summer 2010. Part of my quest to learn CS from [https://teachyourselfcs.com](https://teachyourselfcs.com).
 
 You can find the course resources [here](https://inst.eecs.berkeley.edu//~cs61a/su10/index.html#resources).
+
+Youtube lecture playlist I'm following [here](https://www.youtube.com/playlist?list=PLhMnuBfGeCDNgVzLPxF9o5UNKG1b-LFY9).
+
+
+
 
 ## How to run Scheme code on Linux
 
 1. Download STKloss from [here](https://www.stklos.net/download.html).
 2. Untar the archive:
 
-    ```# tar -uxf stklos-{VERSION}.tar.gz```
+    ```# tar -xvf stklos-{VERSION}.tar.gz```
 
 3. cd into the folder:
 
@@ -34,7 +39,7 @@ You can find the course resources [here](https://inst.eecs.berkeley.edu//~cs61a/
 
 ## Running .scm files
 
-``` #stklos -f test.scm ```
+``` # stklos -f test.scm ```
 
 ## Using course specific functions
 
