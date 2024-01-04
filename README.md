@@ -6,6 +6,7 @@ You can find the course resources [here](https://inst.eecs.berkeley.edu/~cs61a/s
 
 Youtube lecture playlist I'm following [here](https://www.youtube.com/playlist?list=PLhMnuBfGeCDNgVzLPxF9o5UNKG1b-LFY9).
 
+Prelim schedule/repo reference: [here](./schedule.md).
 
 ## How to run Scheme code
 
