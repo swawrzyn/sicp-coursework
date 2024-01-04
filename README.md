@@ -47,3 +47,4 @@ Prelim schedule/repo reference: [here](./schedule.md).
 
 In order to use course specific functions, make sure to add ``` (load "simply.scm") ``` to the top of your programs or into the STKlos REPL. Requires relative import.
 
+Lib files referenced in course sources from [here](https://people.eecs.berkeley.edu/~bh/61a-pages/Lib/) and located in `lib` folder.
